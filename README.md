@@ -32,7 +32,7 @@ If you’re also learning JavaScript, feel free to star ⭐ this repo and learn 
 
 <h2>⚙️ Tech Stack</h2>
 <ul>
-<li>Language: JavaScript (ES6+)</li>
+<li>Language: JavaScript </li>
 
 <li>Tools: VS Code, Node.js, Git</li>
 
@@ -42,4 +42,4 @@ If you’re also learning JavaScript, feel free to star ⭐ this repo and learn 
 <h2>✨ Let’s Connect</h2>
 
 <p>If you’re also sipping chai and writing JS, let’s connect and grow together! ☕💬
-🔗 [Your LinkedIn profile link here]</p>
+🔗 [www.linkedin.com/in/manuj-saxena-7542a9292]</p>
