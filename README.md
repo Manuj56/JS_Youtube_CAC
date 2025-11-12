@@ -1,7 +1,7 @@
 <h1>☕ Learning JavaScript</h1>
 
-<p>Hey there! 👋
-Welcome to my JavaScript learning journey powered by Chai aur Code
+<p>Hey there! 👋</p>
+<p>Welcome to my JavaScript learning journey powered by Chai aur Code
  — the coolest corner on YouTube for developers who like their code with a pinch of fun 😎
 
 This repo is my personal playground 🛠️ — a place where I’ll keep pushing files, projects, and experiments as I learn JavaScript step by step.
