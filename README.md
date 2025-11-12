@@ -41,5 +41,5 @@ If you’re also learning JavaScript, feel free to star ⭐ this repo and learn 
 
 <h2>✨ Let’s Connect</h2>
 
-<p>If you’re also sipping chai and writing JS, let’s connect and grow together! ☕💬
-🔗 [www.linkedin.com/in/manuj-saxena-7542a9292]</p>
+<p>If you’re also sipping chai and writing JS, let’s connect and grow together! ☕💬<br>
+🔗 (www.linkedin.com/in/manuj-saxena-7542a9292)</p>
