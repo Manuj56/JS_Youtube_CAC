@@ -1,44 +1,45 @@
-☕ Learning JavaScript
+<h1>☕ Learning JavaScript</h1>
 
-Hey there! 👋
-Welcome to my JavaScript learning journey powered by Chai aur Code
+<p>Hey there! 👋</p>
+<p>Welcome to my JavaScript learning journey powered by Chai aur Code
  — the coolest corner on YouTube for developers who like their code with a pinch of fun 😎
 
 This repo is my personal playground 🛠️ — a place where I’ll keep pushing files, projects, and experiments as I learn JavaScript step by step.
-From basic syntax to crazy logic-building, you’ll find it all evolving right here, one commit at a time 💻✨
+From basic syntax to crazy logic-building, you’ll find it all evolving right here, one commit at a time 💻✨</p>
 
-🌱 What You’ll See Here
+<h2>🌱 What You’ll See Here</h2>
+<ul>
+<li>My daily / weekly JavaScript practice files</li>
 
-My daily / weekly JavaScript practice files
+<li>Notes, logic breakdowns, and console experiments</li>
 
-Notes, logic breakdowns, and console experiments
+<li>Small projects and exercises from Chai aur Code tutorials</li>
 
-Small projects and exercises from Chai aur Code tutorials
+<li>Occasional “aha!” moments turned into code 😄</li>
+</ul>
+<h2>🚀 Goal</h2>
 
-Occasional “aha!” moments turned into code 😄
+<p>To build a solid understanding of JavaScript fundamentals, improve logic-building, and eventually move towards advanced topics like DOM manipulation, APIs, and frameworks.</p>
 
-🚀 Goal
+<h2>💡 Motto</h2>
 
-To build a solid understanding of JavaScript fundamentals, improve logic-building, and eventually move towards advanced topics like DOM manipulation, APIs, and frameworks.
+<p>“Code. Debug. Learn. Repeat.”</p>
 
-💡 Motto
+<h2>📅 Progress</h2>
 
-“Code. Debug. Learn. Repeat.”
+<p>I’ll keep updating this repo time by time as I continue learning.
+If you’re also learning JavaScript, feel free to star ⭐ this repo and learn along with me!</p>
 
-📅 Progress
+<h2>⚙️ Tech Stack</h2>
+<ul>
+<li>Language: JavaScript </li>
 
-I’ll keep updating this repo time by time as I continue learning.
-If you’re also learning JavaScript, feel free to star ⭐ this repo and learn along with me!
+<li>Tools: VS Code, Node.js, Git</li>
 
-⚙️ Tech Stack
+<li>Learning Source: Chai aur Code on YouTube</li>
+</ul>
 
-Language: JavaScript (ES6+)
+<h2>✨ Let’s Connect</h2>
 
-Tools: VS Code, Node.js, Git
-
-Learning Source: Chai aur Code on YouTube
-
-✨ Let’s Connect
-
-If you’re also sipping chai and writing JS, let’s connect and grow together! ☕💬
-🔗 [Your LinkedIn profile link here]
+<p>If you’re also sipping chai and writing JS, let’s connect and grow together! ☕💬<br>
+🔗[www.linkedin.com/in/Manuj56]</p>
